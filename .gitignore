@@ -1,0 +1,26 @@
+# Build artifacts
+dist/
+build/
+*.spec
+
+# Virtual environments
+build_env/
+build_venv/
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Local runtime data
+data/
+
+# Claude AI assistant
+.claude/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store

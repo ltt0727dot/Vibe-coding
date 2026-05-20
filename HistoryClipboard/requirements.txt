@@ -1,0 +1,4 @@
+PySide6==6.5.3
+Pillow>=10.0.0
+# 注意：Python 版本需 3.10+，本机使用 Python 3.11.7 (Anaconda)
+# PySide6 6.11.1 在本机有 DLL 兼容问题，降级到 6.5.3 正常
