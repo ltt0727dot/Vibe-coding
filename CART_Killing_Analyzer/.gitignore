@@ -1,0 +1,21 @@
+# Build artifacts
+build/build/
+build/dist/
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE / Editor
+.claude/
+.vscode/
+.idea/
+
+# Temp / data files
+*.csv
+*.xlsx
+!requirements.txt
+
+# Virtual env
+venv/
+.venv/
+env/
